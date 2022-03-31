@@ -7,7 +7,7 @@ helloworld编写，编译，执行
 执行：java  类名  
 输出helloworld      
 ————————————————————————————————————————————————————————————————————————————————————————————
-![Image text](https://img1.baidu.com/it/u=3113703763,2753917681&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=313)
+![Image text](https://raw.githubusercontent.com/ing616477657/javastudy/main/productImg/helloworld%E5%9B%BE%E8%A7%A3.png)
 HelloWorld案例编写和执行
 class：定义一个类，编译的时候定义的类名称和文件名可以不一致
 public：暂时看来是起到限制class创建的类名称必须和文件名一致
